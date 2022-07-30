@@ -1,0 +1,27 @@
+@import "./fonts";
+
+/* GENERAL */
+html {
+    box-sizing: border-box;
+    height: 100%;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    padding: 0;
+    margin: 0;
+    font-family: "Jost" ,"Arial", sans-serif;
+    background-color: #F7F8FD;
+    color: #647196;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
